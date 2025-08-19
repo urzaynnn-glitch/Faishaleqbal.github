@@ -29,18 +29,16 @@ Smart learner with a strong commitment to completing tasks efficiently and effec
 - **Vee Gee Automobiles (2 Weeks)** – Maintenance & Standards Room  
   - Gained knowledge of categorization of goods and processes like cutting, polishing, and QC preparations. 
 
-- **Honeywell, navi mumbai (2 Month and continuing )** – Building management Systems  
+- **Honeywell, navi mumbai (1 july 2025 - current )** – Building management Systems  
   - Hands-on experience with DDCP Sensors Vavs VFD basics andinstallation.  
 
 ---
 
 ## 🚀 Projects  
-- **Automation Project** – Bluetooth Controlled Car (Arduino-based)  
+- **Project** –  Project Engineer at Honeywell (Navi Mumbai International Airport Private Limited)
 - **Weather Station** – Real-time data collection (temperature, humidity, wind speed).  
-
 ---
 
 ## 🌐 Languages  
 - Hindi  
 - English
-- 
