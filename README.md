@@ -7,7 +7,7 @@
 ---
 
 ## 🌟 Summary  
-Smart learner with a strong commitment to completing tasks efficiently and effectively. Passionate about electrical and electronics engineering, with hands-on experience in automation, embedded systems, and fire alarm systems.  
+Smart learner with a strong commitment to completing tasks efficiently and effectively. Passionate about electrical and electronics engineering, with hands-on experience in automation, embedded systems, and Building management systems.  
 
 ---
 
