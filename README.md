@@ -1,5 +1,4 @@
 # 👨‍💻 Faishal Eqbal
-
 📍 Batla House, New Delhi – 110025  
 📞 9608484022  
 📧 [faisalbth453@gmail.com](mailto:faisalbth453@gmail.com)  
